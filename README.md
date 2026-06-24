@@ -1,5 +1,7 @@
 # FPGA-Based Drone Detection and Classification System Using YOLOv8n on ZCU104
 
+Real-time FPGA-accelerated drone detection system using YOLOv8n, AMD Xilinx ZCU104, DPUCZDX8G, and a custom Vivado HLS-based NMS accelerator.
+
 ## Overview
 
 This project implements a real-time FPGA-based drone detection and classification system using YOLOv8n deployed on the AMD Xilinx ZCU104 platform.
@@ -150,6 +152,20 @@ Dataset
 * Project Presentation
 * Final Report
 
+## Technologies Used
+
+- YOLOv8
+- FPGA
+- AMD Xilinx ZCU104
+- DPUCZDX8G
+- Vivado
+- Vivado HLS
+- Vitis AI
+- AXI DMA
+- AXI4-Stream
+- ONNX
+- Python
+- C++
 
 ## Author
 
