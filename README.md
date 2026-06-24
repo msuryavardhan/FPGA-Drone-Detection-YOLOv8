@@ -38,12 +38,6 @@ Dataset → YOLOv8 Training → ONNX Export → INT8 Quantization → DPU Compil
 
 ---
 
-## Project Architecture
-
-See architecture diagrams in the images folder.
-
----
-
 ## Performance
 
 ### Quantized Model Performance
